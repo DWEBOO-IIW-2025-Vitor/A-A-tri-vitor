@@ -20,5 +20,5 @@ const num = 42;
 const ativo = true;
 
 console.log(typeof texto);
-console.log(typeof num;
+console.log(typeof num);
 console.log(typeof ativo);
